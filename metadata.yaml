@@ -1,0 +1,32 @@
+_repo: The-Life-of-John-TaylorThird-President-of-the-Church-of-Jesus-Christ-of-Latter-day-Saints_45303
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45303-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, B. H. (Brigham Henry)
+    alias: Roberts, Brigham Henry
+    birthdate: 1857
+    deathdate: 1933
+    gutenberg_agent_id: '37629'
+    url: http://www.gutenberg.org/2009/agents/37629
+    wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45303'
+  lccn: '44026537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Taylor, John, 1808-1887'
+- !lcsh 'Mormon Church'
+title: "The Life of John Taylor\r\nThird President of the Church of Jesus Christ of\
+  \ Latter-Day Saints"
+url: http://www.gutenberg.org/ebooks/45303
